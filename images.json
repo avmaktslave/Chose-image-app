@@ -1,0 +1,36 @@
+{
+  "images": [
+    {
+      "url": "./images/2.jpg",
+      "checked": false
+    },
+    {
+      "url": "./images/4.jpg",
+      "checked": false
+    },
+    {
+      "url": "./images/5.jpg",
+      "checked": false
+    },
+    {
+      "url": "./images/11.jpg",
+      "checked": false
+    },
+    {
+      "url": "./images/7.jpg",
+      "checked": false
+    },
+    {
+      "url": "./images/8.jpg",
+      "checked": false
+    },
+    {
+      "url": "./images/9.jpg",
+      "checked": false
+    },
+    {
+      "url": "./images/10.jpg",
+      "checked": false
+    }
+  ]
+}
